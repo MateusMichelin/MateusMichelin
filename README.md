@@ -1,6 +1,6 @@
 ## Oiii!! Eu sou o Mateus Michelin.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusMichelin)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 <div style="display: inline_block"><br>
