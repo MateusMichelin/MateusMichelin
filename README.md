@@ -1,7 +1,9 @@
 ## Oiii!! Eu sou o Mateus Michelin.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusMichelin&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMichelin&hide_progress=false&theme=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MateusMichelin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusMichelin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
