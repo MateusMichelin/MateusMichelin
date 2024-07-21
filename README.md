@@ -9,7 +9,7 @@
   <img align="center" alt="Mateus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mateus-Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="Mateus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Mateus-GML" height="30" width="40" src="![image](https://github.com/user-attachments/assets/374b1d25-da52-40e9-8438-e8f7000ec9c5)
+  <img align="center" alt="Mateus-GML" height="30" width="40" src="![image](https://github.com/user-attachments/assets/374b1d25-da52-40e9-8438-e8f7000ec9c5)">
 ">
 </div>
   
